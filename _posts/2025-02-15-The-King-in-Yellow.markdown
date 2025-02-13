@@ -1,11 +1,14 @@
 ---
 layout: default
 modal-id: 7
-date: 15.02.2024
+date: 13.02.2025
 img: submarine.png
 alt: image-alt
 project-date: Februar 2025
-client: Studienabgabe für Komilitone
+client: Studienabgabe eines Komilitonen
 category: Synchron
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: <b> Sprechrolle für die Studienabgabe eines Komilitonen </b>
 ---
+Für "The King in yellow" eine cthuluesque Satire über Fastfoodketten, welche ein Komilitone für seine Studienabgabe produziert, dürfte ich ein paar Sätze einsprechen.
+Momentan befindet sich dies jedoch noch in der Post-Production und liegt mir noch nicht vor. <br>
+Stay tuned

@@ -6,6 +6,8 @@ img: circus.png
 alt: image-alt
 project-date: Januar 2024
 client: Abgabe für Studium
-category: Magazin-Beitrag
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Voice-Over, Magazin-Beitrag
+description: <b> Kurzbeitrag über "Impuls Rhein-Main e.V." </b>
 ---
+In meinem zweiten Semester habe ich gemeinsam mit einer Komilitonin, einen Kurzbeitrag redaktionell erarbeitet, gedreht und produziert. <br>
+In diesem Projekt, spreche ich auch das Voice-Over ein.

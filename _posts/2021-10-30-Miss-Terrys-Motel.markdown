@@ -9,7 +9,7 @@ client: private Zwecke
 category: Schauspiel, Script, et al
 description: <b> Miss Terrys Motel (Film) </b>
 ---
-Seit über einem Jahrzehnt produzieren, Robin Kattner, ein guter Freund und Ich nun Filme. 
+Seit über einem Jahrzehnt produzieren, Robin Kattner und Ich nun Filme. 
 2020 hat unser erster Film die 90 Minuten geknackt und 2021 hat Miss Terrys Motel, 
 mit 136 Minuten nochmal einen oben drauf gesetzt. Inspiriert durch eine Zeile aus dem Lied "Miss Terrys Motel" 
 von Miirtek und Marti Fischer schrieb ich das Drehbuch innerhalb von 3 Monaten und zu meiner Abitur-Zeit. 

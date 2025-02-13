@@ -7,5 +7,8 @@ alt: image-alt
 project-date: August 2023
 client: Bachelor-Arbeit von Katharina Bloch
 category: Synchron
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: <b> Sprechrollen in der Bachelorarbeit "Löwen sind mutig." von Katharina Bloch </b>
 ---
+In meinem ersten Semester, hatte ich direkt die Möglichkeit einer Komilitonin bei ihrer Abschlussarbeit zu helfen.
+Sie hat Sprecher für ihren animierten Kurzfilm gesucht und in mir gleich 4 Rollen gefunden. Man kann mich als den 
+ersten und dritten Löwen, sowie den ersten und den dritten Flamingo hören.
