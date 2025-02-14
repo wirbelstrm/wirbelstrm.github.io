@@ -2,6 +2,7 @@
 layout: default
 modal-id: 2
 date: 01.07.2018
+type: Mic
 img: cabin.png
 alt: image-alt
 project-date: Juli 2018

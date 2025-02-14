@@ -2,7 +2,8 @@
 layout: default
 modal-id: 1
 date: 02.12.2017
-img: game.png
+type: Mic
+img: test.png
 alt: image-alt
 project-date: Dezember 2017
 client: private Zwecke

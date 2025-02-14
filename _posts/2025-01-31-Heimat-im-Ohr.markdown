@@ -2,6 +2,7 @@
 layout: default
 modal-id: 6
 date: 31.01.2025
+type: Mic
 img: cake.png
 alt: image-alt
 project-date: Januar 25

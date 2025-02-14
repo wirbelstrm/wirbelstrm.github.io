@@ -2,6 +2,7 @@
 layout: default
 modal-id: 5
 date: 31.01.2024
+type: Mic
 img: circus.png
 alt: image-alt
 project-date: Januar 2024

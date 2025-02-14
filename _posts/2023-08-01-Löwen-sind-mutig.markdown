@@ -2,6 +2,7 @@
 layout: default
 modal-id: 4
 date: 01.08.2023
+type: Mic
 img: safe.png
 alt: image-alt
 project-date: August 2023
