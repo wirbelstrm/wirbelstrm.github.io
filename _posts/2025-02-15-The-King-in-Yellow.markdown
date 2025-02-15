@@ -3,7 +3,7 @@ layout: default
 modal-id: 7
 date: 13.02.2025
 type: Mic
-img: submarine.png
+img: The_King_in_yellow.png
 alt: image-alt
 project-date: Februar 2025
 client: Studienabgabe eines Komilitonen

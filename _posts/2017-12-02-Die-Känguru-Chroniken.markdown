@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 02.12.2017
 type: Mic
-img: test.png
+img: Känguru-Chroniken.png
 alt: image-alt
 project-date: Dezember 2017
 client: private Zwecke

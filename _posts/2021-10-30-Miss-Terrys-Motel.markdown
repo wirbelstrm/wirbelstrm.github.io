@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 30.10.2021
 type: Film
-img: circus.png
+img: Miss_Terrys_Motel.png
 alt: image-alt
 project-date: Oktober 2021
 client: private Zwecke

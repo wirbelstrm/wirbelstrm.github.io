@@ -3,7 +3,7 @@ layout: default
 modal-id: 6
 date: 31.01.2025
 type: Mic
-img: cake.png
+img: Heimat_im_Ohr_2.png
 alt: image-alt
 project-date: Januar 25
 client: Abgabe für Studium

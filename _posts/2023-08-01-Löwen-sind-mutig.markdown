@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 date: 01.08.2023
 type: Mic
-img: safe.png
+img: Löwen_sind_mutig.png
 alt: image-alt
 project-date: August 2023
 client: Bachelor-Arbeit von Katharina Bloch

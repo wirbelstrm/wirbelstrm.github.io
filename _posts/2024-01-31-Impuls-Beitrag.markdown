@@ -3,7 +3,7 @@ layout: default
 modal-id: 5
 date: 31.01.2024
 type: Mic
-img: circus.png
+img: Impuls-Beitrag.png
 alt: image-alt
 project-date: Januar 2024
 client: Abgabe für Studium
